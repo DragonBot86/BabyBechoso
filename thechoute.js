@@ -351,6 +351,8 @@ _https://files.catbox.moe_`
   └────────────
 Como instarlar este bot; 
   _https://youtu.be/Q6E7DiOGJMw_
+Grupo de WhatsApp
+_https://chat.whatsapp.com/Kt67SHAbI1d6FTJctVxvon_
   ┌────「 *INFO DEL BOT*」─
   🎓 *𝙽𝚘𝚖𝚋𝚛𝚎 :* BabyBechoso
   🎓 *𝙲𝚛𝚎𝚊𝚍𝚘𝚛 :* wa.me/18299897014
