@@ -349,8 +349,8 @@ _https://files.catbox.moe_`
   🎓 *XP:* ${getLevelingXp(sender)}
   🎓 *Hora:* ${jm}
   └────────────
-Como instarlar el bot; 
-  _https://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg_
+Como instarlar este bot; 
+  _https://youtu.be/Q6E7DiOGJMw_
   ┌────「 *INFO DEL BOT*」─
   🎓 *𝙽𝚘𝚖𝚋𝚛𝚎 :* BabyBechoso
   🎓 *𝙲𝚛𝚎𝚊𝚍𝚘𝚛 :* wa.me/18299897014
