@@ -11,7 +11,7 @@ El bot aun no esta finalizado.
 Si necesita mas informacion o el bot le presenta algun problema, recuerda notificarmero a por mis redes.
 
 </p>
-<a href="https://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fe%2Fe1%2FLogo_of_YouTube_%25282015-2017%2529.svg%2F502px-Logo_of_YouTube_%25282015-2017%2529.svg.png&imgrefurl=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3ALogo_of_YouTube_(2015-2017).svg&tbnid=A8wGwBWta916fM&vet=12ahUKEwjA7cyYr5j0AhVJJd8KHWXMA20QMygAegUIARCnAQ..i&docid=zwL8QGLW_KqsPM&w=502&h=211&itg=1&q=youtube%20logo%20png&ved=2ahUKEwjA7cyYr5j0AhVJJd8KHWXMA20QMygAegUIARCnAQ" width="40" height="40"</a>
+<a href="https://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fes%2Fimg%2Ficonos-logotipos-emojis%2Fcompanias-technologicas%2Flogo-youtube-play&psig=AOvVaw3FJvZpAGdWg3KfEQlarGlA&ust=1636997003909000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCND9tqmvmPQCFQAAAAAdAAAAABAD" width="40" height="40"</a>
 <br>
 <a href="wa.me/18299897014"><img src="/media/redes/whatsapp.png" width="40" height="40"</a>
 <br>
