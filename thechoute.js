@@ -517,9 +517,19 @@ Con el *|* que los divide.
 
 const install = `
 Video Completo De Los Pasos Para Su Instalacion en caso que no sabes como hacerlos:
+https://youtu.be/HAaFxrpibFk
 
-Pasos Para La Instalacion:
+*Pasos Para La Instalacion:*
+Clona este repositorio
 
+> git clone https://github.com/thechoute/BabyBechoso
+
+*Inicia la instalacion*
+- cd BabyBechoso
+- bash install.sh
+
+*PARA INICIAR EL BOT*
+- npm start
 `
   
       ///Baby
