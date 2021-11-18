@@ -12,3 +12,4 @@ npm install
 npm i yt-search
 npm i google-it
 npm i g-i-s
+npm i hxz-api
