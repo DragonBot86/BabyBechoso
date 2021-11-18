@@ -764,7 +764,7 @@ if (choute.message.listResponseMessage){
       {"title": `COMO INSTALAR BOT BABY ACTUALIZADO`, 
       "body": `BabyBechoso`, "mediaType": 2, 
       "thumbnail": fs.readFileSync(`media/imagen/fake.jpg`), 
-      mediaUrl: "https://youtu.be/cxZ98u3Jqto"}}},
+      mediaUrl: "https://youtu.be/HAaFxrpibFk"}}},
       {contextInfo: { mentionedJid: [sender,Oowner]}})  
       addFilter(from)
       addLevelingLevel(sender, 5)	}}      
